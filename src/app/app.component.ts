@@ -82,4 +82,6 @@ export class AppComponent {
   // console.log(`The operator is ${this.operator}`)
   // console.log(`Operator set: ${this.operatorSet}`)
 
+  // this is a test change
+
 }
