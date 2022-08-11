@@ -21,7 +21,7 @@
    width: 400px;
  }
 
-  .calc_inputDisplay {
+  .inputDisplay {
     width: 100%;
     height: 40px;
     border-bottom: 1px solid gray;
@@ -33,7 +33,7 @@
     font-size: 1rem;
   }
 
- .calc_resultDisplay {
+ .resultDisplay {
    width: 100%;
    height: 80px;
    border: none;
